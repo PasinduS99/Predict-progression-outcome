@@ -1,4 +1,4 @@
-# Predict-progression-outcome-
+# Predict-progression-outcome
 
 Part 1 - Student Version
 					
