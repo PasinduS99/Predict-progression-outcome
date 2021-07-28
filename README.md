@@ -31,7 +31,7 @@ This following horizontal histogram example shows the output distribution for 20
 
 <img width="848" alt="Screenshot 2021-07-25 at 14 48 47" src="https://user-images.githubusercontent.com/57299708/127170542-576ac693-0f3d-4d93-9abb-130b2269997c.png">
 
-Part 3 - Vertical Histogram (optional extension) 
+Part 3 - Vertical Histogram 
 
 Extend your program to add an additional histogram that displays vertically so the stars in a category should go downwards and not across the screen. 
 
