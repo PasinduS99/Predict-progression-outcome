@@ -37,3 +37,17 @@ Extend your program to add an additional histogram that displays vertically so t
 
 <img width="848" alt="Screenshot 2021-07-25 at 14 48 47" src="https://user-images.githubusercontent.com/57299708/127370518-6c8a6371-85f9-4154-999f-27d6ed8cf22c.png">
 
+Part 4 – Alternative Staff Version
+ 							
+For this staff version, the data will be accessed from a list, tuple or dictionary and NOT from user input. The data held in the list, tuple or dictionary will match the test cases 1 to 10 shown in the appendix. Use user-defined functions.
+
+
+Programming Style & References
+ 							
+Use descriptive variable names and reference any code taken from others sources in your program code. Include the following at the top of your program(s).
+ 							
+# I declare that my work contains no examples of misconduct, such as plagiarism, or collusion. # Any code taken from other sources is referenced within my code solution.
+ 							
+# Student ID: .............................
+ 							
+# Date: ............................. 
